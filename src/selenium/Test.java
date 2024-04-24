@@ -30,7 +30,7 @@ public class Test {
 		driver.findElement(By.xpath("(//span[@class='ng-star-inserted'])[1]")).click();
 		//driver.findElement(By.xpath("//span[@class='ui-button-text ui-clickable']")).click();	
 		driver.findElement(By.xpath("(//input[@aria-autocomplete='list'])[2]")).click();
-		driver.findElements(By.xpath(""));
+		driver.findElements(By.xpath("gefvdyf"));
 
 		//li[@aria-label='TATKAL']
 		
